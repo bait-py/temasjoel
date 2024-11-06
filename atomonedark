@@ -1,0 +1,29 @@
+:root[data-theme=theme-atomdark] {
+    --global-white: #282c34;
+    --global-black: #1e2127;
+    --global-gray: #3e4451;
+    --global-text: #abb2bf;
+    --text-black: #abb2bf;
+    --text-white: #ffffff;
+    --text-nav: #61afef;
+    --global-link: #61afef;
+    --global-link-hover: #528bff;
+    --announcement_red: #e06c75;
+    --global-link-active: #98c379;
+    --highlight_blue: #61afef;
+    --widget_black: #1e2127;
+    --title_blue: #5b80b9;
+    --title_hover: #c678dd;
+    --button_blue: #61afef;
+    --button_grad: #528bff;
+    --border_gray: #3e4451;
+    --border_black: #282c34;
+    --border_dark_gray: #3e4451;
+    --background-white: #282c34;
+    --background_gray: #3e4451;
+    --background_light_gray: #3e4451;
+    --background_dark_gray: #1e2127;
+    --background_black: #1e2127;
+    --background_input: #3e4451;
+    --background_table_pyjama: #3e4451;
+}
