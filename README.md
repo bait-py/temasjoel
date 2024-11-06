@@ -2,7 +2,7 @@
 
 ## Hey Marc! 👋
 
-Este repo contiene todas las correcciones que hice a los temas y colores de la plataforma de programación del instituto. Quería asegurarme de que la interfaz se vea mucho mejor, sea más fácil de leer y tenga buen contraste para que no nos cansemos la vista.
+Este repo contiene todas las correcciones que hemos hecho a los temas y colores de la plataforma de programación del instituto. Quería asegurarme de que la interfaz se vea mucho mejor, sea más fácil de leer y tenga buen contraste para que no nos cansemos la vista.
 
 ### 🔍 Resumen de Cambios
 
