@@ -1,0 +1,29 @@
+:root[data-theme=NYSuperman] {
+     --global-white: #ffffff;
+    --global-black: #000000;
+    --global-gray: #7f8c8d;
+    --global-text: #1b263b;
+    --text-black: #000000;
+    --text-white: #ffffff;
+    --text-nav: #ffffff;
+    --global-link: #d32f2f;
+    --global-link-hover: #b71c1c;
+    --announcement_red: #c62828;
+    --global-link-active: #ffcc00;
+    --highlight_blue: #2979ff;
+    --widget_black: #1f2e5a;
+    --title_blue: #1e3b8f;
+    --title_hover: #d32f2f;
+    --button_blue: #2766c0;
+    --button_grad: #3a88f5;
+    --border_gray: #cccccc;
+    --border_black: #000000;
+    --border_dark_gray: #555555;
+    --background-white: #ffffff;
+    --background_gray: #f1eaea;
+    --background_light_gray: #f4e5e5;
+    --background_dark_gray: #3d3d3d;
+    --background_black: #0b0b0b;
+    --background_input: #fbe9e7;
+    --background_table_pyjama: #fce4ec;
+}
