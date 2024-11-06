@@ -11,7 +11,7 @@ Este repo contiene todas las correcciones que hemos hecho a los temas y colores 
 
 - **Más contraste**: Ahora se lee mejor y es más cómodo para los ojos.
 - **Colores corregidos**: Me aseguré de que los colores no se mezclen o tengan problemas de accesibilidad.
-- **Optimización para luz y oscuridad**: Los temas funcionan bien tanto en modo claro como en oscuro, para cualquier momento del día.
+- **El diseño gráfico es mi pasion**: Los temas son de un alto nivel de diseño gráfico, esperemos que los disfrutes.
 
 ### 💻 Temas Disponibles
 
