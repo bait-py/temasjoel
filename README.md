@@ -16,7 +16,7 @@ Este repo contiene todas las correcciones que hemos hecho a los temas y colores 
 ### 💻 Temas Disponibles
 
 - **Tema Candy Mejorado**
-  ![Candy](images/candy.jpg)
+  ![Candy](images/candy.png)
 - **Tema Oscuro Mejorado** (Coming Soon)
 - **Tema Atom One Dark**
   ![Atom One Dark](images/atomdark.jpg)
