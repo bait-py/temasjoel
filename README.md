@@ -29,6 +29,9 @@ Este repo contiene todas las correcciones que hemos hecho a los temas y colores 
   
 - **Tema DTPurple**
   ![Didac Tienda Morado](images/dtpurple.png)
+  
+- **Tema BUBIMan**
+  ![BUBIMAN](images/bubiman.png)
 
 ### 🤝 Contribuciones
 
