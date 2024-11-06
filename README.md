@@ -24,8 +24,8 @@ Este repo contiene todas las correcciones que hemos hecho a los temas y colores 
 - **Tema Atom One Dark**
   ![Atom One Dark](images/atomdark.jpg)
   
-- **Tema Hulk**
-  ![Hulk](images/hulk.png)
+- **Tema Gran Arbol Sabio**
+  ![Wise Mystical Tree](images/wmt.png)
   
 - **August Theme** (Coming Soon)
 
