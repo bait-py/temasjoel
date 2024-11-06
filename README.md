@@ -13,22 +13,13 @@ Este repo contiene todas las correcciones que hemos hecho a los temas y colores 
 - **Colores corregidos**: Me aseguré de que los colores no se mezclen o tengan problemas de accesibilidad.
 - **Optimización para luz y oscuridad**: Los temas funcionan bien tanto en modo claro como en oscuro, para cualquier momento del día.
 
-### 🚀 Cómo Usarlo
-
-1. Clona el repo:
-   ```bash
-   git clone https://github.com/bait-py/temasjoel
-   ```
-
-2. Sigue las instrucciones en la plataforma para aplicar los temas.
-
 ### 💻 Temas Disponibles
 
 - **Tema Candy Mejorado**
-- **Tema Oscuro Mejorado**
-- **Tema Atom One Dark**
-- **Tema Dracula**
-- **August Theme**
+- **Tema Oscuro Mejorado** (Coming Soon)
+- **Tema Atom One Dark** (Coming Soon)
+- **Tema Dracula** (Coming Soon)
+- **August Theme** (Coming Soon)
 
 ### 🤝 Contribuciones
 
