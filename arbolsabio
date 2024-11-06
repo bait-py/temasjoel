@@ -1,4 +1,4 @@
-:root[data-theme=theme-hulk] {
+:root[data-theme=theme-wmt] {
     --global-white: #E8F5E9;
     --global-black: #1E2A24;
     --global-gray: #4A7046;
