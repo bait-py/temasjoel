@@ -1,0 +1,29 @@
+:root[data-theme=theme-hulk] {
+    --global-white: #E8F5E9;
+    --global-black: #1E2A24;
+    --global-gray: #4A7046;
+    --global-text: #E8F5E9;
+    --text-black: #E8F5E9;
+    --text-white: #1B3A28;
+    --text-nav: #6D4C71;
+    --global-link: #5B8F67;
+    --global-link-hover: #4A7D5A;
+    --announcement_red: #6E3846;
+    --global-link-active: #6D4C71;
+    --highlight_blue: #879D8A;
+    --widget_black: #4C6A53;
+    --title_blue: #8F8C71;
+    --title_hover: #A09988;
+    --button_blue: #879D8A;
+    --button_grad: #5B8F67;
+    --border_gray: #4A7046;
+    --border_black: #2E533A;
+    --border_dark_gray: #3B6047;
+    --background-white: #1E2A24;
+    --background_gray: #2E3D37;
+    --background_light_gray: #3A5244;
+    --background_dark_gray: #1B2A25;
+    --background_black: #1E2A24;
+    --background_input: #4A7046;
+    --background_table_pyjama: #2E533A;
+}
