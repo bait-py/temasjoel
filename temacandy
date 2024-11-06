@@ -1,0 +1,28 @@
+:root[data-theme=theme-candy] {
+    --global-white: a2d2ff;
+    --global-black: black;
+    --global-gray: gray;
+    --global-text: black;
+    --text-black: black;
+    --text-white: black;
+    --text-nav: black;
+    --global-link: #415a77;
+    --global-link-hover: #0645ad;
+    --announcement_red: #ae0000;
+    --global-link-active: #faa700;
+    --highlight_blue: #ffafcc;
+    --widget_black: #cdb4db;
+    --title_hover: #0645ad;
+    --button_blue: #265a88;
+    --button_grad: #337ab7;
+    --border_gray: #ffafcc;
+    --border_black: #000;
+    --border_dark_gray: #ffafcc;
+    --background-white: #ffc8dd;
+    --background_gray: #ffc8dd;
+    --background_light_gray: #ffc8dd;
+    --background_dark_gray: #ffc8dd;
+    --background_black: #ffc8dd;
+    --background_input: #ffc8dd;
+    --background_table_pyjama: #ffc8dd;
+}
