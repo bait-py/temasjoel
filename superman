@@ -1,4 +1,4 @@
-:root[data-theme=NYSuperman] {
+:root[data-theme=BUBIMan] {
      --global-white: #ffffff;
     --global-black: #000000;
     --global-gray: #7f8c8d;
