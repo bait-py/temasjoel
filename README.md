@@ -23,8 +23,8 @@ Este repo contiene todas las correcciones que hemos hecho a los temas y colores 
 
 ### 🤝 Contribuciones
 
-Si ves algo que se pueda mejorar o tienes ideas nuevas, ¡dímelo! Todo aporte es bienvenido.
+Si ves algo que se pueda mejorar o tienes ideas nuevas, ¡dínoslo! Todo aporte es bienvenido.
 
 ### 📬 Comentarios
 
-Cualquier cosa, mándame un mensaje y lo revisamos juntos. ¡Espero que te guste!
+Cualquier cosa, mándanos un mensaje y lo revisamos juntos. ¡Espero que te guste!
