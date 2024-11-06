@@ -24,7 +24,9 @@ Este repo contiene todas las correcciones que hemos hecho a los temas y colores 
 - **Tema Atom One Dark**
   ![Atom One Dark](images/atomdark.jpg)
   
-- **Tema Dracula** (Coming Soon)
+- **Tema Hulk**
+  ![Hulk](images/hulk.png)
+  
 - **August Theme** (Coming Soon)
 
 ### 🤝 Contribuciones
