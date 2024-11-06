@@ -17,9 +17,13 @@ Este repo contiene todas las correcciones que hemos hecho a los temas y colores 
 
 - **Tema Candy Mejorado**
   ![Candy](images/candy.png)
-- **Tema Oscuro Mejorado** (Coming Soon)
+  
+- **Tema Oscuro Mejorado**
+  ![Dark](images/dark.png)
+  
 - **Tema Atom One Dark**
   ![Atom One Dark](images/atomdark.jpg)
+  
 - **Tema Dracula** (Coming Soon)
 - **August Theme** (Coming Soon)
 
