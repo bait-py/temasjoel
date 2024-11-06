@@ -27,7 +27,8 @@ Este repo contiene todas las correcciones que hemos hecho a los temas y colores 
 - **Tema Gran Arbol Sabio**
   ![Wise Mystical Tree](images/wmt.png)
   
-- **August Theme** (Coming Soon)
+- **Tema DTPurple**
+  ![Didac Tienda Morado](images/dtpurple.png)
 
 ### 🤝 Contribuciones
 
